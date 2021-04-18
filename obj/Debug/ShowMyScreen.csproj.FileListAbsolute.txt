@@ -1,0 +1,12 @@
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\bin\Debug\ShowMyScreen.exe.config
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\bin\Debug\ShowMyScreen.exe
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\bin\Debug\ShowMyScreen.pdb
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\bin\Debug\log4net.dll
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\bin\Debug\xWebServ.dll
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\obj\Debug\ShowMyScreen.csprojResolveAssemblyReference.cache
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\obj\Debug\ShowMyScreen.About.resources
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\obj\Debug\ShowMyScreen.Form1.resources
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\obj\Debug\ShowMyScreen.Properties.Resources.resources
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\obj\Debug\ShowMyScreen.csproj.GenerateResource.Cache
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\obj\Debug\ShowMyScreen.exe
+C:\Users\mrKaban\Desktop\ShowMyScreen_src_1.3\obj\Debug\ShowMyScreen.pdb
